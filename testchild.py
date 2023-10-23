@@ -1,2 +1,2 @@
-list = ('milk', 'bread', 'carrots')
+list=("milk","bread","carrots")
 Print(list)
